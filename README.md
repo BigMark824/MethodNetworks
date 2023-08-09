@@ -1,2 +1,2 @@
 # MethodNetworks
-DarkRP server in Garry's Mod
+Method Networks GMod server
